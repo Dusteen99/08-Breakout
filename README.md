@@ -1,2 +1,2 @@
-# 08-Breakout
-A simple implementation of the classic game Breakout
+# Project-Template-Godot
+A generic template for a Godot project
